@@ -1,2 +1,2 @@
 # wpwpajs
-Web Programming with Pythona nd JavaScript
+Web Programming with Python and JavaScript
